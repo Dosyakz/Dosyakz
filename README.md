@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dosyakz
 - 👀 I’m interested in cybersport
-- 🌱 I’m currently learning JAVA EE and SE
+- 🌱 I’m currently learning JAVA EE and blender animation 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @akhmetovv07 tg
 
