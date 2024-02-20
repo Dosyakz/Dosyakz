@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dosyakz
 - 👀 I’m interested in cybersport
 - 🌱 I’m currently learning JAVA EE and blender animation 
-- 📫 How to reach me @akhmetovv07 tg
+- 📫 How to reach me @akhmetovv07 tg or discord
 - email aidos.mvpkz@gmail.com
 
 <!---
